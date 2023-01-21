@@ -5,7 +5,7 @@
 **Prérequis**
 
 - Python 3.x
-- Bibliothèques Python: numpy
+- Bibliothèques Python: numpy, scikit-image
 
 **Pour installer ce projet, vous devez cloner le dépôt:**
 
